@@ -1,0 +1,188 @@
+#socialmedia {
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.share {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#best {
+    color: rgb(165, 157, 157);
+    font-size: small;
+    margin-left: 3em;
+    margin-top: -2em;
+
+}
+
+#pic {
+    height: 10px;
+    background: url('img/hr-img.png') repeat;
+
+}
+
+#choc-header {
+    font-size: 40px;
+
+}
+
+#dec {
+    color: rgb(165, 157, 157);
+    font-size: small;
+    margin-top: -3.3em;
+
+}
+
+#printer {
+    float: right;
+    border: 20px;
+    margin: auto;
+
+
+}
+
+#pizza {
+    margin-top: 2vw;
+    width: 100%;
+}
+
+.instrction {
+    color: grey;
+    font-size: large;
+    line-height: 2vw;
+    margin-top: 2vw;
+    text-indent: 3%;
+}
+
+.list-img {
+    margin-top: 3.5vw;
+    width: 100%;
+}
+
+.container {
+    color: gray;
+    display: inherit;
+    font-family: cursive;
+    line-height: 3.5vw;
+    margin-top: -30vw;
+    text-indent: 2%;
+}
+
+.col {
+    display: inline-block;
+    width: 40%;
+}
+
+.one {
+    margin-left: 10%;
+}
+
+#footer-bio {
+    margin-top: 25px;
+    border-top: thick;
+    border-top-style: dashed;
+    border-top-color: gray;
+    border-width: 3px;
+}
+
+#author-bio {
+    display: inline-block;
+    margin-right: 73px;
+}
+
+#article-footer img {
+    display: inline-block;
+    margin-top: 25px;
+}
+
+#button1 {
+    font-family: "Oswald";
+    background: orange;
+    color: white;
+    padding: 9px 36px;
+    display: inline-block;
+}
+
+#ending-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: thick;
+    border-top-style: solid;
+    border-top-color: gray;
+    border-width: 1px;
+}
+
+#ending-footer p {
+    text-align: center;
+    margin-left: 280px;
+}
+
+#ending-footer img {
+    margin-top: -18px;
+    margin-left: 397px;
+}
+
+#bio-pic {
+    float: left;
+}
+
+#button1 {
+    float: right;
+}
+
+#small-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#line {
+    height: 120px;
+    background: url('hr-img.png') repeat;
+}
+
+.about_vanessa {
+    color: grey;
+    display: inline-block;
+    width: 70%;
+}
+
+van_pic {
+    position: absolute;
+    width: 10px;
+}
+
+.hername {
+    font-size: large;
+    margin-right: 5%;
+    display: inline-block;
+
+}
+
+.van_bio {
+    font-size: large;
+    line-height: 2em;
+    margin-left: 10%;
+    width: 100%;
+}
+
+.Bottom {
+    display: inline;
+}
+
+.recipe {
+    color: white;
+    background-color: orange;
+    float: right;
+    font-size: 35px;
+    padding: 15px;
+    width: 350px;
+}
